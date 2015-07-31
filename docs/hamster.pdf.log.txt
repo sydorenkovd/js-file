@@ -1,0 +1,46 @@
+Sun Jul 12 09:58:26 2015
+ - check pdf, res: registered
+Sun Jul 12 09:58:26 2015
+ - check chm, res: registered
+Sun Jul 12 09:58:26 2015
+ - check ps, res: registered
+Sun Jul 12 09:58:26 2015
+ - check xps, res: registered
+Sun Jul 12 09:58:26 2015
+ - check oxps, res: registered
+Sun Jul 12 09:58:26 2015
+ - check eps, res: registered
+Sun Jul 12 09:58:26 2015
+ - check djvu, res: registered
+Sun Jul 12 09:58:26 2015
+ - check djv, res: registered
+Sun Jul 12 09:58:26 2015
+ - check cbs, res: registered
+Sun Jul 12 09:58:26 2015
+ - check cbr, res: registered
+Sun Jul 12 09:58:26 2015
+ - check cb7, res: registered
+Sun Jul 12 09:58:26 2015
+ - check cbt, res: registered
+Sun Jul 12 09:58:26 2015
+ - check mobi, res: registered
+Sun Jul 12 09:58:26 2015
+ - check epub, res: registered
+Sun Jul 12 09:58:26 2015
+ - check fb2, res: registered
+Sun Jul 12 09:58:26 2015
+ - check fbz, res: registered
+Sun Jul 12 09:58:26 2015
+ - check zfb2, res: registered
+Sun Jul 12 09:58:26 2015
+ - check fb2z, res: registered
+Sun Jul 12 09:58:26 2015
+ - check fb2zip, res: registered
+Sun Jul 12 09:58:26 2015
+ - check pdb, res: registered
+Sun Jul 12 09:58:26 2015
+ - check prc, res: registered
+Sun Jul 12 09:58:26 2015
+ - check tiff, res: registered
+Sun Jul 12 09:58:26 2015
+ - check tif, res: registered
